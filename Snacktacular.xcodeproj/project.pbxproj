@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		23103E202614E20F00DBF3DF /* APIKeys.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23103E1F2614E20F00DBF3DF /* APIKeys.swift */; };
 		232910CE2613C5F100DBBB71 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 232910CD2613C5F100DBBB71 /* AppDelegate.swift */; };
 		232910D02613C5F100DBBB71 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 232910CF2613C5F100DBBB71 /* SceneDelegate.swift */; };
 		232910D22613C5F100DBBB71 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 232910D12613C5F100DBBB71 /* LoginViewController.swift */; };
@@ -44,7 +43,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		23103E1F2614E20F00DBF3DF /* APIKeys.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIKeys.swift; sourceTree = "<group>"; };
 		232910CA2613C5F100DBBB71 /* Snacktacular.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Snacktacular.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		232910CD2613C5F100DBBB71 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		232910CF2613C5F100DBBB71 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -131,7 +129,6 @@
 				2391DFB02613DB3D003EB8C4 /* SpotTableViewCell.swift */,
 				2391DFD62613E001003EB8C4 /* SpotDetailViewController.swift */,
 				23CE583526141076006EA805 /* UIViewController+alert.swift */,
-				23103E1F2614E20F00DBF3DF /* APIKeys.swift */,
 				232910D32613C5F100DBBB71 /* Main.storyboard */,
 				232910D62613C5F200DBBB71 /* Assets.xcassets */,
 				232910D82613C5F200DBBB71 /* LaunchScreen.storyboard */,
@@ -375,7 +372,6 @@
 				2391DFD72613E001003EB8C4 /* SpotDetailViewController.swift in Sources */,
 				23CE583B2614D67B006EA805 /* Spots.swift in Sources */,
 				2391DFB12613DB3D003EB8C4 /* SpotTableViewCell.swift in Sources */,
-				23103E202614E20F00DBF3DF /* APIKeys.swift in Sources */,
 				23CE58262613FDA7006EA805 /* Spot.swift in Sources */,
 				232910D02613C5F100DBBB71 /* SceneDelegate.swift in Sources */,
 				23CE583626141076006EA805 /* UIViewController+alert.swift in Sources */,
